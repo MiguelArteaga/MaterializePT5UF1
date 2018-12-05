@@ -1,0 +1,273 @@
+#divletras{
+	color:  #f7103e ;
+}
+#divbarra{
+	color:  #f7103e ;
+}
+#boton{
+	color: #f7103e;
+}
+#mesa1{
+	background:   #90461c  ;
+	position: relative;
+	left: 20%;
+	bottom: -45px;
+	height: 5%;
+	width: 20%;
+}
+#m1titulo{
+	position: relative;
+	padding: 10px;
+	left: 30%;
+}
+.m1s1{
+	background: green;
+	position: relative;
+	left: 10%;
+	height: 5%;
+	width: 30%;
+}
+.m1s2{
+	background: green;
+	position: relative;
+	left: 60%;
+	bottom:60px;
+	height: 5%;
+	width: 30%;
+}
+.m1s3{
+	background: green;
+	position: relative;
+	bottom:30px;
+	left: 10%;
+	height: 5%;
+	width: 30%;
+}
+.m1s4{
+	background: green;
+	position: relative;
+	left: 60%;
+	bottom:90px;
+	height: 5%;
+	width: 30%;
+}
+
+.mesaReservada1{
+	background: red;
+	position: relative;
+	left: 10%;
+	height: 5%;
+	width: 30%;
+}
+
+.mesaReservada2{
+	background: red;
+	position: relative;
+	left: 60%;
+	bottom:60px;
+	height: 5%;
+	width: 30%;
+}
+
+.mesaReservada3{
+	background: red;
+	position: relative;
+	bottom:30px;
+	left: 10%;
+	height: 5%;
+	width: 30%;
+}
+
+.mesaReservada4{
+	background: red;
+	position: relative;
+	left: 60%;
+	bottom:90px;
+	height: 5%;
+	width: 30%;
+}
+
+
+#mesa2{
+	background:   #90461c  ;
+	position: relative;
+	left: 20%;
+	bottom: -100px;
+	height: 5%;
+	width: 20%;
+}
+
+
+#m2titulo{
+	position: relative;
+	padding: 10px;
+	left: 30%;
+}
+.m2s1{
+	background: green;
+	position: relative;
+	left: 10%;
+	height: 5%;
+	width: 30%;
+}
+
+.m2s2{
+	background: green;
+	position: relative;
+	left: 60%;
+	bottom:60px;
+	height: 5%;
+	width: 30%;
+}
+.m2s3{
+	background: green;
+	position: relative;
+	bottom:30px;
+	left: 10%;
+	height: 5%;
+	width: 30%;
+}
+.m2s4{
+	background: green;
+	position: relative;
+	left: 60%;
+	bottom:90px;
+	height: 5%;
+	width: 30%;
+}
+
+
+
+
+
+
+#mesa3{
+	background:   #90461c  ;
+	position: relative;
+	left: 60%;
+	bottom: 550px;
+	height: 5%;
+	width: 20%;
+
+}
+
+
+#m3titulo{
+	position: relative;
+	padding: 10px;
+	left: 30%;
+}
+.m3s1{
+	background: green;
+	position: relative;
+	left: 10%;
+	height: 5%;
+	width: 30%;
+}
+
+.m3s2{
+	background: green;
+	position: relative;
+	left: 60%;
+	bottom:60px;
+	height: 5%;
+	width: 30%;
+}
+.m3s3{
+	background: green;
+	position: relative;
+	bottom:30px;
+	left: 10%;
+	height: 5%;
+	width: 30%;
+}
+.m3s4{
+	background: green;
+	position: relative;
+	left: 60%;
+	bottom:90px;
+	height: 5%;
+	width: 30%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#mesa4{
+	background:   #90461c  ;
+	position: relative;
+	left: 60%;
+	bottom: 495px;
+	height: 5%;
+	width: 20%;
+
+}
+
+
+#m4titulo{
+	position: relative;
+	padding: 10px;
+	left: 30%;
+}
+.m4s1{
+	background: green;
+	position: relative;
+	left: 10%;
+	height: 5%;
+	width: 30%;
+}
+
+.m4s2{
+	background: green;
+	position: relative;
+	left: 60%;
+	bottom:60px;
+	height: 5%;
+	width: 30%;
+}
+.m4s3{
+	background: green;
+	position: relative;
+	bottom:30px;
+	left: 10%;
+	height: 5%;
+	width: 30%;
+}
+.m4s4{
+	background: green;
+	position: relative;
+	left: 60%;
+	bottom:90px;
+	height: 5%;
+	width: 30%;
+}
+
+
+
+
+
+#mesa1comanda{
+	height: 5%;
+	width: 30%;
+}
